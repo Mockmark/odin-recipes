@@ -1,9 +1,20 @@
 body {
     background-color: blanchedalmond;
+    font-size: 24px;
 }
 
 h1 {
     text-align: center;
+    background-color: rgb(163, 133, 192);
+    font-family: sans-serif;
+}
+
+h2 {
+    background-color: rgb(133, 192, 184);
+}
+
+.tab {
+    tab-size: 10;
 }
 
 img {
@@ -12,4 +23,15 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
+}
+
+.startpage-list {
+        font-size: 38px;
+        font-family: sans-serif;        
+}
+
+.backlink {
+    color: red;
+    text-align: center;
+    background-color: rgb(121, 224, 221);
+}
