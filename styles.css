@@ -1,3 +1,15 @@
 body {
     background-color: blanchedalmond;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 341px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
