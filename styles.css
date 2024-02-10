@@ -1,6 +1,6 @@
 body {
     background-color: blanchedalmond;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 h1 {
@@ -11,10 +11,11 @@ h1 {
 
 h2 {
     background-color: rgb(133, 192, 184);
+    text-align: center;
 }
 
 .tab {
-    tab-size: 10;
+    tab-size: 50px;
 }
 
 img {
@@ -25,9 +26,27 @@ img {
     margin-right: auto;
 }
 
+.plaintext {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.commonlist {
+    display: block;
+    margin-left: 500px;
+}
+
+.big-list-element {
+    margin-right: 250px;
+}
+
 .startpage-list {
         font-size: 38px;
-        font-family: sans-serif;        
+        font-family: sans-serif;
+        margin-left: 500px;        
 }
 
 .backlink {
